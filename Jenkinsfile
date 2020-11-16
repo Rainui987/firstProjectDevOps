@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/OussamaINTI/devOps'
+ git 'https://github.com/Rainui987/firstProjectDevOps'
 }
 
 stage('Compile'){
